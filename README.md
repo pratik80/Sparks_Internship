@@ -76,7 +76,3 @@ Conclusion
 
 This project demonstrates how Supervised Learning can be used to predict a student's academic score from their study hours. Simple Linear Regression provides an effective approach for modeling the relationship between these two variable
 
-
-[Your Name]
-
-Data Science and Business Analytics — Task 1
